@@ -62,7 +62,7 @@ La VM fue creada en **VMware Workstation** con las siguientes especificaciones:
 
 ### Creación de usuario
 
-- **Nombre completo:** Chester Ivan Ferrer Hernandez E-8-155543
+- **Nombre completo:** Chester Ivan Ferrer Hernandez
 - **Usuario:** `chester-ferrer`
 - **Contraseña configurada durante instalación**
 
