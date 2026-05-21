@@ -2,7 +2,7 @@
 # Lab 4 - Ciberseguridad: Hardening y Auditoría con OpenSCAP en Rocky Linux 9.7
 
 **Estudiante:** Chester Ivan Ferrer Hernandez  
-**Facultad:** Ciencias y Tecnologías  
+**Facultad:** Ingeniería de Sistemas Computacionales  
 **Carrera:** Ciberseguridad  
 **Fecha:** 17 de mayo de 2026
 
@@ -186,7 +186,7 @@ Solo el personal autorizado puede ingresar y realizar cambios
 Nombre del estudiante:
 Chester Ferrer
 
-Facultad de Ciencias y Tecnologías
+Facultad de Ingeniería de Sistemas Computacionales
 Ciberseguridad
 EOF
 ```
@@ -468,4 +468,4 @@ ls -l /home/chester-ferrer/lab-openscap/reportes/
 
 ---
 
-*Laboratorio realizado el 17 de mayo de 2026 — Ciberseguridad, Facultad de Ciencias y Tecnologías*
+*Laboratorio realizado el 17 de mayo de 2026 — Ciberseguridad, Facultad de Ingeniería de Sistemas Computacionales*
